@@ -1,4 +1,3 @@
-# ml-endterm
 # ML model for predicting diabetes and identifying the diabetes stage
 **Description:** It is a team project for the "Intro to Machine Learning" subject. The main objective of this project was to analyze how various lifestyle and medical factors relate to diabetes and its progression. We focused on features such as age, gender, sleep hours, as well as medical indicators like cholesterol, HbA1c, and others.
 The whole work was divided into two parts:
